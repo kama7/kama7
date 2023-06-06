@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamal Pratap
-- Founder of [Hireet](https://hireet.com), a recruitment management platform to streamline the hiring process.
-- Founder of [Tiobu](https://tiobu.com) which is a marketplace for Fans, Creators and Brands.
+- [Hireet](https://hireet.com), a recruitment management platform to streamline the hiring process.
+- [Tiobu](https://tiobu.com) which is a marketplace for Fans, Creators and Brands.
 
 <!---
 kama7/kama7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
