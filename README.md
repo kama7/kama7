@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamal Pratap
 - [Hireet](https://hireet.com), a recruitment management platform to streamline the hiring process.
-- Incoming something cool!!
+- Something cool! Incoming!
 
 <!---
 kama7/kama7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
